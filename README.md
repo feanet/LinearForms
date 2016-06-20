@@ -1,2 +1,2 @@
 # LinearForms
-Making constraints is part of many linear programming models. This header describes Expression class, which hold one linear constraint.
+The header describes Expression class, which holds one linear constraint of a linear programming problem. See usage in main.cpp
